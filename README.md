@@ -2,6 +2,8 @@
 Group name: Neural Net Ninjas <br>
 Group members: Emmer Marcell (DL55DP), Gedeon Máté Károly (HIIMNO), Kiss Csaba (B73BSA) <br>
 Challenge: https://www.kaggle.com/competitions/kaggle-llm-science-exam <br> <br>
+Documentation:
+- scientific-question-answering-using-machine-learning-techniques.pdf
 Colab Notebooks:
 - data_viz.ipynb: Colab Notebook for data visualization
 - embedding_approach.ipynb: The first notebook for building and evaluating the model. The evaluation metric on the test set is MAP@3=0.423.
